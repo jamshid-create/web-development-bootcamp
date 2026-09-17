@@ -29,6 +29,7 @@ A simple HTML project that combines the concepts learned in this section to crea
 
 ```text
 02-Introduction-to-HTML/
+├── README.md
 ├── 2.1-Heading-Element/
 ├── 2.2-Paragraph-Element/
 ├── 2.3-Void-Elements/
