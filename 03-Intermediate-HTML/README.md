@@ -24,7 +24,7 @@ A simple birthday invitation webpage that combines the HTML concepts learned thr
 * How to display images and provide alternative text for accessibility
 * How to combine the concepts learned throughout the section to build a complete webpage
 
-## 📁 Structure
+📁 Structure
 
 03-Intermediate-HTML/
 ├── README.md
