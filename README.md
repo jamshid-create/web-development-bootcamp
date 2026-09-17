@@ -6,8 +6,8 @@ This repository documents my learning journey and serves as a structured archive
 
 ## 📚 Curriculum
 
-* [ ] 01 - Front-End Web Development
-* [ ] 02 - Introduction to HTML
+* [x] 01 - Front-End Web Development
+* [x] 02 - Introduction to HTML
 * [ ] 03 - Intermediate HTML
 * [ ] 04 - Multi-Page Websites
 * [ ] 05 - Introduction to CSS
