@@ -9,7 +9,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 01 - Front-End Web Development
 * [x] 02 - Introduction to HTML
 * [x] 03 - Intermediate HTML
-* [ ] 04 - Multi-Page Websites
+* [x] 04 - Multi-Page Websites
 * [ ] 05 - Introduction to CSS
 * [ ] 06 - CSS Properties
 * [ ] 07 - Intermediate CSS
@@ -57,6 +57,10 @@ This repository documents my learning journey and serves as a structured archive
 * Movie Ranking Project
 
 * Birthday Invite Project
+
+* HTML Portfolio Project
+
+* Capstone Project 1
 
 ## 🎯 Goal
 
