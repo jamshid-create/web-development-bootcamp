@@ -11,7 +11,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 03 - Intermediate HTML
 * [x] 04 - Multi-Page Websites
 * [x] 05 - Introduction to CSS
-* [ ] 06 - CSS Properties
+* [x] 06 - CSS Properties
 * [ ] 07 - Intermediate CSS
 * [ ] 08 - Advanced CSS
 * [ ] 09 - Flexbox
@@ -61,6 +61,8 @@ This repository documents my learning journey and serves as a structured archive
 * HTML Portfolio Project — [View Repository](https://github.com/jamshid-create/html-portfolio)
 
 * Capstone Project 1 — [View Repository](https://github.com/jamshid-create/resume-capstone-project-1)
+
+* Motivation Meme Project
 
 ## 🎯 Goal
 
