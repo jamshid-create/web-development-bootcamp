@@ -62,6 +62,8 @@ This repository documents my learning journey and serves as a structured archive
 
 * Capstone Project 1 — [View Repository](https://github.com/jamshid-create/resume-capstone-project-1)
 
+* Project Colour Vocab Website
+
 * Motivation Meme Project
 
 ## 🎯 Goal
