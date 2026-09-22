@@ -12,7 +12,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 04 - Multi-Page Websites
 * [x] 05 - Introduction to CSS
 * [x] 06 - CSS Properties
-* [ ] 07 - Intermediate CSS
+* [x] 07 - Intermediate CSS
 * [ ] 08 - Advanced CSS
 * [ ] 09 - Flexbox
 * [ ] 10 - Grid
@@ -65,6 +65,8 @@ This repository documents my learning journey and serves as a structured archive
 * Project Colour Vocab Website
 
 * Motivation Meme Project
+
+* CSS Flag Project
 
 ## 🎯 Goal
 
