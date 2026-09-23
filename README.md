@@ -13,7 +13,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 05 - Introduction to CSS
 * [x] 06 - CSS Properties
 * [x] 07 - Intermediate CSS
-* [ ] 08 - Advanced CSS
+* [x] 08 - Advanced CSS
 * [ ] 09 - Flexbox
 * [ ] 10 - Grid
 * [ ] 11 - Bootstrap
@@ -67,6 +67,8 @@ This repository documents my learning journey and serves as a structured archive
 * Motivation Meme Project
 
 * CSS Flag Project
+
+* Web Design Agency Project
 
 ## 🎯 Goal
 
