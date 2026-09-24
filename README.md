@@ -15,7 +15,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 07 - Intermediate CSS
 * [x] 08 - Advanced CSS
 * [x] 09 - Flexbox
-* [ ] 10 - Grid
+* [x] 10 - Grid
 * [ ] 11 - Bootstrap
 * [ ] 12 - Web Design School - Create a Website that People Love
 * [ ] 13 - Capstone Project 2 - Personal Site
@@ -71,6 +71,8 @@ This repository documents my learning journey and serves as a structured archive
 * Web Design Agency Project
 
 * Flexbox Pricing Table Project
+
+* Mondrian Project
 
 ## 🎯 Goal
 
