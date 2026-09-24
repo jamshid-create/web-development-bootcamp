@@ -14,7 +14,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 06 - CSS Properties
 * [x] 07 - Intermediate CSS
 * [x] 08 - Advanced CSS
-* [ ] 09 - Flexbox
+* [x] 09 - Flexbox
 * [ ] 10 - Grid
 * [ ] 11 - Bootstrap
 * [ ] 12 - Web Design School - Create a Website that People Love
@@ -69,6 +69,8 @@ This repository documents my learning journey and serves as a structured archive
 * CSS Flag Project
 
 * Web Design Agency Project
+
+* Flexbox Pricing Table Project
 
 ## 🎯 Goal
 
