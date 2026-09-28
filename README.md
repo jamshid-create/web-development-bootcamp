@@ -16,7 +16,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 08 - Advanced CSS
 * [x] 09 - Flexbox
 * [x] 10 - Grid
-* [ ] 11 - Bootstrap
+* [x] 11 - Bootstrap
 * [ ] 12 - Web Design School - Create a Website that People Love
 * [ ] 13 - Capstone Project 2 - Personal Site
 * [ ] 14 - Introduction to Javascript ES6
@@ -73,6 +73,8 @@ This repository documents my learning journey and serves as a structured archive
 * Flexbox Pricing Table Project
 
 * Mondrian Project
+
+* TinDog Startup Project
 
 ## 🎯 Goal
 
