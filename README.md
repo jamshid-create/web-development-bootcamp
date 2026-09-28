@@ -17,7 +17,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 09 - Flexbox
 * [x] 10 - Grid
 * [x] 11 - Bootstrap
-* [ ] 12 - Web Design School - Create a Website that People Love
+* [x] 12 - Web Design School - Create a Website that People Love
 * [ ] 13 - Capstone Project 2 - Personal Site
 * [ ] 14 - Introduction to Javascript ES6
 * [ ] 15 - Intermediate Javascript
