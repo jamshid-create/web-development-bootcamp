@@ -18,7 +18,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 10 - Grid
 * [x] 11 - Bootstrap
 * [x] 12 - Web Design School - Create a Website that People Love
-* [ ] 13 - Capstone Project 2 - Personal Site
+* [x] 13 - Capstone Project 2 - Personal Site
 * [ ] 14 - Introduction to Javascript ES6
 * [ ] 15 - Intermediate Javascript
 * [ ] 16 - The Document Object Model (DOM)
@@ -75,6 +75,8 @@ This repository documents my learning journey and serves as a structured archive
 * Mondrian Project
 
 * TinDog Startup Project
+
+* Capstone Project 2 - Personal Site
 
 ## 🎯 Goal
 
