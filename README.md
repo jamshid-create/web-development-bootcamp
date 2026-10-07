@@ -20,7 +20,7 @@ This repository documents my learning journey and serves as a structured archive
 * [x] 12 - Web Design School - Create a Website that People Love
 * [x] 13 - Capstone Project 2 - Personal Site
 * [x] 14 - Introduction to Javascript ES6
-* [ ] 15 - Intermediate Javascript
+* [x] 15 - Intermediate Javascript
 * [ ] 16 - The Document Object Model (DOM)
 * [ ] 17 - Boss Level Challenge 1 - The Dicee Game
 * [ ] 18 - Advanced Javascript and DOM Manipulation
